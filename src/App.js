@@ -6,7 +6,7 @@ const ButtonMedium = styled.button`
 `;
 function App() {
   return (
-    <ButtonMedium>Medium</ButtonMedium>
+    <ButtonMedium>이름</ButtonMedium>
   );
 }
 
